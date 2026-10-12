@@ -1,0 +1,18 @@
+[
+  {
+    "id": "A001",
+    "title": "Publish a citable methodology page",
+    "evidence_ids": ["E002"],
+    "problem": "Comparison answers cite general methods but not the brand's own process.",
+    "hypothesis": "A clear methodology with original examples may become a stronger source for relevant answers.",
+    "action": "Publish one canonical methodology page with definitions, steps, limitations, examples, author, and update date.",
+    "owner": "Content lead",
+    "effort": 3,
+    "expected_impact": 4,
+    "confidence": 3,
+    "evidence_strength": 3,
+    "expected_signal": "Brand-controlled methodology page appears in relevant citations or source lists.",
+    "measurement": "Repeat the baseline comparison queries and record citations.",
+    "retest_window": "After the page is discoverable, using the original query set."
+  }
+]
