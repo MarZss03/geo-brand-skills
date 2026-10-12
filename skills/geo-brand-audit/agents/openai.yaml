@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO Brand Audit"
+  short_description: "Audit brand visibility and citations in AI answers"
+  default_prompt: "Use $geo-brand-audit to audit my brand visibility across AI answer engines."
