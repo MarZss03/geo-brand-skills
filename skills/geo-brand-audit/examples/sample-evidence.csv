@@ -1,0 +1,3 @@
+evidence_id,observed_at,engine,model,locale,query,intent,brand_mentioned,brand_cited,answer_excerpt,cited_urls,collection_method
+E001,2026-10-11,Example Engine,unknown,en-CA,What tools help small teams audit AI answer visibility?,category,true,false,The answer mentioned Example Brand among several tools,,manual
+E002,2026-10-11,Example Engine,unknown,en-CA,Compare approaches to measuring brand citations in AI answers,comparison,false,false,The answer discussed methods without naming Example Brand,https://example.org/method,manual
