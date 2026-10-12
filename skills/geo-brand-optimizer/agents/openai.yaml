@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO Brand Optimizer"
+  short_description: "Turn GEO evidence into prioritized optimization work"
+  default_prompt: "Use $geo-brand-optimizer to turn my GEO audit into a prioritized action plan."
